@@ -1,0 +1,26 @@
+{
+  "name": "back_end_test_platzi_gerardo_mayel",
+  "version": "1.0.0",
+  "description": "geramfernandez@gmail.com back end test for plazti master, Data Science",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlatziMaster/backend_node_evaluation.git"
+  },
+  "author": "geramfernandez@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PlatziMaster/backend_node_evaluation/issues"
+  },
+  "homepage": "https://github.com/PlatziMaster/backend_node_evaluation#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "nodemon": "^2.0.7"
+  }
+}
