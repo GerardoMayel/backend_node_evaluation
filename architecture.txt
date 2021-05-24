@@ -1,0 +1,12 @@
+Architecture:
+
+Front_End:
+PostMan
+
+Back_End:
+Node.js
+MongoShell
+MongoDBCompass
+
+Data:
+MongoDB Atlas
